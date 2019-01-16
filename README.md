@@ -1,5 +1,6 @@
 # Pricing-Theory-Projects
-Projects about options
+Projects about stock options, PDE and interest rate model
+
 1.Used Binomial Tree to estimate American option value, obtained optimal exercise time and profit distribution
 
 2.Implemented time-based and move-based Delta hedging strategy to an option, explored parameters’ effect on the P&L distribution and the effect of different realizations between real-world probability and risk-neutral world probability
